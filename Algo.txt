@@ -1,4 +1,5 @@
 Step 1:Choose Pizza Place
 Step 2:Choose Pizza type
+Step 2a: Argue over toppings, style and delivery times. repeat step 1 if need be.
 Step 3: Order
 Step 4: Enjoy
